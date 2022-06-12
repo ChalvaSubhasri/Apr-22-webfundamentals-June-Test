@@ -89,7 +89,7 @@ for (let i = 0; i < arr.length; i++) {
 
 // <================================================================================================>
 
-//Question.5:- Find the nth largest element in a sorted array
+//Question.6:- Find the nth largest element in a sorted array
 function nthlargest(array, highest) {
     array.sort();
     let l=array.length;
